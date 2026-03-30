@@ -1,0 +1,13 @@
+************************************
+Case Study: UPI/Online Payment Fraud
+************************************
+
+Rohit, a college student, decided to sell his old headphones on an online marketplace. Within a few hours, he received a call from a person claiming to be a buyer. The caller sounded genuine and agreed to pay the full amount without negotiation.
+
+The “buyer” then told Rohit that he would send the payment through UPI and asked him to scan a QR code to “receive” the money. Trusting him, Rohit scanned the code and was prompted to enter his UPI PIN. Within seconds, instead of receiving money, ₹5,000 was deducted from his account.
+
+This is a classic example of UPI fraud. Typically, scammers first gain the victim’s trust, then send a payment request, QR code, or link. The victim is tricked into entering their UPI PIN, which actually authorizes a payment instead of receiving money.
+
+Such scams usually target students, online sellers, and people who are not fully aware of how digital payments work. The consequences include financial loss, panic, and sometimes long and unsuccessful attempts to recover the money.
+
+This situation could have been avoided if Rohit had known that receiving money does not require entering a UPI PIN. Awareness, careful verification, and avoiding unknown payment requests are essential to prevent such fraud.
